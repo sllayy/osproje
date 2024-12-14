@@ -1,3 +1,4 @@
+//kontroller yapıldı, kod denendi, kod çalışıyor (b221210383)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
